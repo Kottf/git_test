@@ -1,2 +1,2 @@
-This is Kaan's first git project!
+This is Kott's first git project!
 
